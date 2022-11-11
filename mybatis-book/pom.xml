@@ -29,6 +29,7 @@
 
 
         <module>mybatis-plugin</module>
+        <module>mybatis-1</module>
 
     </modules>
     <build>

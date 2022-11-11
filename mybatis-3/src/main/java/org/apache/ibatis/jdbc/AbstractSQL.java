@@ -279,6 +279,9 @@ public abstract class AbstractSQL<T> {
     return sb.toString();
   }
 
+  /**
+   * 工具类
+   */
   private static class SafeAppendable {
     private final Appendable a;
     private boolean empty = true;
